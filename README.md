@@ -1,2 +1,2 @@
 # Handwriting-Recognition
-A app to recognized alphunemric letters in uploaded image. 
+A application to recognized alphunemric letters in uploaded image. 
